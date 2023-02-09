@@ -12,6 +12,7 @@ struct CaculatorApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
